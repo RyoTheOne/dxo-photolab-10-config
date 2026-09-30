@@ -1,0 +1,9 @@
+# Configuration for git attributes
+*.woff binary  
+docs/* linguist-vendored
+*.svg text
+src/**/*.js linguist-detectable
+vendor/* linguist-vendored
+
+*.jpg binary
+*.bat text eol=crlf
