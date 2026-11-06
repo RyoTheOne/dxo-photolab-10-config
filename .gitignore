@@ -1,0 +1,7 @@
+yarn-error.log*
+*.tgz
+.env.local
+.env
+npm-debug.log*
+*.log
+node_modules/
